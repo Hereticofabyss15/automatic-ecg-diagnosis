@@ -6,7 +6,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.x-red.svg)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> **Authors:** Prashant Kumar Moharana · Krish Kumar Kedia · Vansh Kukkar  
+> **Authors:** Prashant Kumar Moharana   
 > **Institution:** VIT Chennai — Department of Electronics & Communication Engineering  
 > **Domain:** Biomedical Signal Processing · Deep Learning · Clinical Decision Support
 
